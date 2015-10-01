@@ -1,6 +1,7 @@
 # lion
 A theme for Tumblr, influenced by Steven Universe.
 
+![lion theme](http://i.imgur.com/A0EDwQz.png)
 
 ##What lion does
 
